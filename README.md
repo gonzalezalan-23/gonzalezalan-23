@@ -6,16 +6,6 @@ Construyo interfaces, paneles administrativos e integraciones con JavaScript, Su
 
 ---
 
-## Proyectos
-
-| Proyecto | Qué resuelve | Stack | Enlaces |
-|---|---|---|---|
-| **SAD — Gestión documental docente** | Buscar, visualizar, exportar y cargar legajos PDF de docentes titulares e interinos desde Google Drive, con accesos por rol. Concentra cerca de 5 años de datos en un único sistema y sigue incorporando archivos cada año. | Google Apps Script, Google Drive, Supabase, JavaScript | [Despliegue](https://sad-oficinas.onrender.com/) (acceso interno) |
-| **Biblioteca Virtual — EEST N.º 5** | Reemplaza el catálogo antes publicado en Google Sites. Catálogo público, préstamos, reservas y panel de administración con 4 roles en 6 vistas. | JavaScript, Supabase, Tailwind CSS, EmailJS | [Demo](https://gonzalezalan-23.github.io/Biblioteca-Virtual/) · [Código](https://github.com/gonzalezalan-23/Biblioteca-Virtual) · [Documentación](https://drive.google.com/drive/folders/1UH2m1hJRTLZtopQsUekHN8cjxXya-MMh?usp=drive_link) |
-| **Comando Estelar — Alarma vecinal** | Prototipo IoT: central de avisos por radio RF 433 MHz que funciona sin internet. | ESP32, Arduino, C++ | [Manual y esquemas](https://drive.google.com/drive/folders/1baz3U1kAY3PoNnkuZnG9bhFAhT4emkz7?usp=drive_link) |
-
-SAD está en uso en las oficinas SAD. Biblioteca Virtual es trabajo en equipo; Comando Estelar es un prototipo en desarrollo, no un producto terminado.
-
 ## Stack
 
 - **Web:** HTML, CSS, JavaScript, Tailwind CSS
